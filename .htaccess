@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "test user"
-AuthUserFile ./.htpasswd
+AuthUserFile gabrielguadalupe.github.io/.htaccess
 require valid-user 
