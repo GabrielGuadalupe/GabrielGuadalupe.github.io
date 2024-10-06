@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "test user"
-AuthUserFile https://github.com/gabrielguadalupe/gabrielguadalupe.github.io/.htaccess
-require valid-user 
